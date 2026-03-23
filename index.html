@@ -58,18 +58,16 @@
   </div>
 
   <h2>What just happened</h2>
-  <p class="muted">The class' GitHub page is 'rebuilt' from the files in the 
-    GitHub repository every time a new change is committed (and merged) into
-    the repository. The merge kicks off a CI/CD process which results in the 
-    automated rerending of this page (index.html) based on the repository's contents and 
-    configuration (_config.yml), which tells the CI/CD process how to display 
-    the roster, based on the files that exist in the <i>_students</i> folder.
+  <p class="muted">The class' GitHub 'Pages' page is 'rebuilt' from the files in the 
+    GitHub repository every time a new change is committed (and merged) into the repository. 
+    The merge kicks off a CI/CD process which results in the automated rerending of this page (index.html) based on the repository's contents and configuration (_config.yml) file. 
+    The configuration file tells this page the default infomration about the site; e.g., site name, where the student files are located, etc. 
+    The CI/CD process uses this information to render roster, including by reading all the files that exist in the <i>_students</i> folder. 
+    See the code in index.html to see <i>how</i> the profiles are rendered.
     <br/><br/>
     Note:
-    <br/>-- if you had editor access to the repository, you could edit this file (index.html) directly
-    and commit the changes, which would also kick off the CI/CD process to update the site.
-    <br/>-- as you don't (initially) have access, you need to create a "pull request" (PR) to get your changes
-    merged into the repository and kick off the CI/CD build process.
+    <br/>-- If you had editor access to the repository, you could edit this file (index.html) directly and commit the changes, which would also kick off the CI/CD process to update the site.
+    <br/>-- Because you don't (initially) have access, you need to create a "pull request" (PR). When an admin approves your pull request, and your changes are merged into the 'main' branch, the CI/CD build process starts and your changes are shortly visible.
   </p>
   <br/>
   <br/>
