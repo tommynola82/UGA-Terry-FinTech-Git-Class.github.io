@@ -8,12 +8,12 @@ This is the class website and dynamic roster, which is intended to introduce stu
 
 Students add themselves to this roster by:
 
-1. Fork this repository (click the **Fork** button in the upper right corner of this page),
-1. creating a new file in `_students/` called {your-name.md},
-1. copying the template text from /templates/bio-template.md (or below) into the new file,
-1. updating the template with your information,
-1. commiting the change (in GitHub, click **Commit changes** and choose **Create a new branch**),
-1. submiting a pull request ( in GitHub click **Propose changes** → **Open pull request**).
+1. Forking this repository (click the **Fork** button in the upper right corner of this page),
+1. Creating a new file in `_students/` called {your-name).md; e.g., rex-vanhorn.md,
+1. Copying the template text from /templates/bio-template.md (or from the text below) into the new file,
+1. Updating the template with your information,
+1. Commiting the change (in GitHub, click **Commit changes** and choose **Create a new branch**),
+1. Submiting a pull request (in GitHub click **Propose changes** → **Open pull request**).
 
 That’s it! We’ll review and merge. Your bio will appear in the roster *after* we merge your PR into the repository.
 
@@ -55,6 +55,6 @@ I'm interested in GenAI for FinTech, college football, and working as little as 
 
 ## Quick links
 
-* Live site: <[https://uga-terry-fintech-git-class.github.io](https://uga-terry-fintech-class-fall-2025.github.io/UGA-Terry-FinTech-Git-Class.github.io/)>
+* Live site: [https://uga-terry-fintech-class-fall-2025.github.io/UGA-Terry-FinTech-Git-Class.github.io/](https://uga-terry-fintech-class-fall-2025.github.io/UGA-Terry-FinTech-Git-Class.github.io/)
 
 * Add yourself: Create a file like `_students/first-last.md` and paste the template.
