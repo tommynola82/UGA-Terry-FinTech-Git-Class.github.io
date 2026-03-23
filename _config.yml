@@ -2,6 +2,7 @@ title: UGA Terry FinTech - Fall 2025
 description: This site demonstrates the how Git and GitHub can be used to kick off a CI/CD pipeline to update a class roster in real-time. <br />Go to <a href="https://github.com/UGA-Terry-FinTech-Class-Fall-2025/UGA-Terry-FinTech-Git-Class.github.io" target="_new">https://github.com/UGA-Terry-FinTech-Class-Fall-2025/UGA-Terry-FinTech-Git-Class.github.io</a> for instructions for updating this roster.
 theme: jekyll-theme-primer
 baseurl: "/UGA-Terry-FinTech-Git-Class.github.io"
+url: "https://uga-terry-fintech-class-fall-2025.github.io"
 
 # Jekyll "collection" for students
 collections:
